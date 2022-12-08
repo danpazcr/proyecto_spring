@@ -1,0 +1,2 @@
+git status ->ver archivos creados o modificados
+git clone -> clonar repositorio
